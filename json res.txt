@@ -1,0 +1,36 @@
+{
+  "basics": [
+{
+    "name": "vijay",
+    "email": "vijayhari***@gmail.com",
+    "phone": "+91 9080****26.",
+    "degree": "BCA";
+    "location": {
+      "address": "no 451 trichy annanagar",
+      "postalCode": "620026",
+      "city": "Trichy",
+    ]
+}
+  
+  "education": [
+    {
+      "institution": "OFT",
+      "area": "trichy",
+      "studyType": "stateboard",
+      "startDate": "Your start date, in 2011-06-02 format",
+      "endDate": "Your completion date, in 2012-04-23 format",
+      "gpa": "58%",
+      ]
+    }
+  
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "moderate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "footbal",
+      ]
+    }
